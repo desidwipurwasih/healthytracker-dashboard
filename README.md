@@ -15,3 +15,7 @@ HealthyTracker adalah aplikasi berbasis Streamlit untuk mencatat konsumsi makana
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+## 📷 Screenshot Aplikasi
+### 🔸 Tampilan Form Input
+![Form Input](Healthytracker.png)
